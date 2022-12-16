@@ -21,4 +21,4 @@ $ node index.js
 
 ## Authors
 - [iRennegade](https://github.com/iRennegade)
-- [T4gh](https://github.com/T4gh)
+- [T4hg](https://github.com/T4hg)
